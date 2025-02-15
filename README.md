@@ -22,7 +22,8 @@
 <img width="6%" title="GitHub" src="media/logo/GitHub.svg">
 <img width="6%" title="Jenkins" src="media/logo/Jenkins.svg">
 <img width="6%" title="Telegram" src="media/logo/Telegram.svg">
-<img width="5%" title="Jira" src="media/logo/Jira.svg">
+<img width="6%" title="Apple" src="media/logo/apple.png">
+<img width="6%" title="Android" src="media/logo/android.png">
 </p>
 
 ### My projects
