@@ -22,7 +22,6 @@
 <img width="6%" title="GitHub" src="media/logo/GitHub.svg">
 <img width="6%" title="Jenkins" src="media/logo/Jenkins.svg">
 <img width="6%" title="Telegram" src="media/logo/Telegram.svg">
-<img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
 ### My projects
