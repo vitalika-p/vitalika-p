@@ -29,7 +29,7 @@
 
 [www.mtsdengi.ru](https://github.com/vitalika-p/mtsdengi_project) -  демо-проект UI автотестирования сайта МТС Деньги
 
-[ReqresApiTests](https://github.com/vitalika-p/ReqresApiTests-15) - демо-проект API автотестирования сервиса Reqres
+[ReqresApiTests](https://github.com/vitalika-p/ReqresApiTests-15/tree/api_tests) - демо-проект API автотестирования сервиса Reqres
 
 [Mobile tests Wiki](https://github.com/vitalika-p/mobile_tests_wiki/tree/hw21) - демо-проект автотестирования мобильного приложения Wiki
 
